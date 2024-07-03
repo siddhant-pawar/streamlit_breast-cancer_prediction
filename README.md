@@ -1,2 +1,3 @@
 # streamlit_breast-cancer_prediction
 ML and DS Projects, this repository contain datasets that used in projects
+This Streamlit application, titled "Breast Cancer Predictor," integrates modules for interactive functionality. It features a page configuration with a custom title and icon, initially expanded sidebar sliders for input values. The main section informs users about the app's purpose in diagnosing breast cancer using machine learning models and manual input sliders. Charts and predictive models are displayed in columns, with additional Pygal charts provided. Finally, CSS styling hides Streamlit's default menu and footer for a cleaner interface.
